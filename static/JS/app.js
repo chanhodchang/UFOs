@@ -42,3 +42,4 @@ function handleClick() {
 d3.select('#filter-btn').on('click', handleClick);
 // Build the table when the pafe loads
 buildTable(tableData);
+
